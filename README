@@ -1,0 +1,27 @@
+HSPTV! BBS Syntax Highlighting MOD
+
+【作成】
+natade / https://twitter.com/natadea
+
+【ダウンロードサイト】
+Chrome用
+https://chrome.google.com/webstore/detail/hsptv-bbs-syntax-highligh/oaehpopndpdillmpndcfopehgihkdflp
+
+FireFox用
+https://addons.mozilla.org/ja/firefox/addon/hsptv-bbs-syntax-highlighting-/?src=cb-dl-rating
+
+【解説】
+HSPTV!掲示板にて投稿されたHSPのソースコードについて、
+自動で次の項目の色を変更します。
+・プリプロセッサ文
+・命令
+・関数
+・数値
+・変数
+・文字列
+・コメント
+・ラベル
+
+また、変数上記の文章について、マウスカーソルを乗せることで、
+他で利用されている個所を目立たせることができます。
+なお、この拡張機能は非公式です。
