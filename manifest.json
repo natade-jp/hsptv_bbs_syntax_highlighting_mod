@@ -1,0 +1,17 @@
+{
+	"name":			"HSPTV! BBS Syntax Highlighting MOD",
+	"version":		"1.1.2",
+	"manifest_version": 2,
+	"description":	"HSPTV!掲示板のコード表示等を変更します。非公式です。",
+	"icons": {
+		"32": "hsptvbbs_syntax_highlighting/content/icon_x32.png",
+		"48": "hsptvbbs_syntax_highlighting/content/icon_x48.png",
+		"128": "hsptvbbs_syntax_highlighting/content/icon_x128.png"
+	},
+	"content_scripts": [
+		{
+			"matches": ["http://hsp.tv/play/pforum.php?mode=*"],
+			"js": ["hsptvbbs_syntax_highlighting/content/HSPTV! BBS Syntax Highlighting MOD.tamper.js"]
+		}
+	]
+}

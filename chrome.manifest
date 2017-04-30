@@ -1,0 +1,3 @@
+# Firefox
+content	hsptvbbs_syntax_highlighting	hsptvbbs_syntax_highlighting/content/
+overlay	chrome://browser/content/browser.xul	chrome://hsptvbbs_syntax_highlighting/content/mod.xul

@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<!-- Firefox -->
+<overlay id="hsptvbbs_syntax_highlighting"
+	xmlns="http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul"
+	xmlns:html="http://www.w3.org/1999/xhtml">
+	<script type="application/x-javascript" src="chrome://hsptvbbs_syntax_highlighting/content/HSPTV%21%20BBS%20Syntax%20Highlighting%20MOD%2etamper%2ejs" />
+</overlay>

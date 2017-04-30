@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<RDF xmlns="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:em="http://www.mozilla.org/2004/em-rdf#">
+
+	<Description about="urn:mozilla:install-manifest">
+		<em:id>hsptvbbs_syntax_highlighting@natade.net</em:id>
+		<em:type>2</em:type>
+		<em:name>HSPTV! BBS Syntax Highlighting MOD</em:name>
+		<em:version>1.1.2.1-signed</em:version>
+		<em:iconURL>chrome://hsptvbbs_syntax_highlighting/content/icon_x32.png</em:iconURL>
+		
+		<!-- Firefox -->
+		<em:targetApplication>
+			<Description>
+				<em:id>{XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX}</em:id>
+				<em:minVersion>27.0</em:minVersion>
+				<em:maxVersion>30.*</em:maxVersion>
+			</Description>
+		</em:targetApplication>
+
+		<em:localized>
+			<Description>
+				<em:locale>en-US</em:locale>
+				<em:name>HSPTV! BBS Syntax Highlighting MOD</em:name>
+				<em:creator>natade</em:creator>
+				<em:description>Change the code display of HSPTV's BBS.</em:description>
+				<em:homepageURL>https://twitter.com/natadea</em:homepageURL>
+			</Description>
+		</em:localized>
+		<em:localized>
+			<Description>
+				<em:locale>ja</em:locale>
+				<em:name>HSPTV! BBS Syntax Highlighting MOD</em:name>
+				<em:creator>natade</em:creator>
+				<em:description>HSPTV!掲示板のコード表示等を変更します。非公式です。</em:description>
+				<em:homepageURL>https://twitter.com/natadea</em:homepageURL>
+			</Description>
+		</em:localized>
+	</Description>
+</RDF>
